@@ -96,14 +96,10 @@ updates everywhere, instantly, and the arithmetic is always exact.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-AppDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=9CA3AF" alt="GitHub stats" />
-
-<br/>
-
-<!-- Top-languages card is intentionally omitted: it can only read public repos.
-     Uncomment once a repo is public.
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-AppDev&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" alt="Top languages" />
--->
+<!-- github-readme-stats (stats card + top-langs card) and github-profile-trophy are
+     deliberately not used here: as of this writing the public instances return
+     503 and 402 respectively, and both can only read public repos anyway.
+     If those services recover and a repo goes public, they slot back in here. -->
 
 **Where my time actually goes**
 
@@ -118,10 +114,6 @@ updates everywhere, instantly, and the arithmetic is always exact.
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-AppDev&theme=react-dark&bg_color=00000000&hide_border=true&color=8B5CF6&line=22D3EE&point=ffffff&area=true" width="98%" alt="Contribution graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-AppDev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
